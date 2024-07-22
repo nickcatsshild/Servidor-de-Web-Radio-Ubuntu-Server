@@ -1,6 +1,4 @@
-# Servidor de Web Radio - Ubuntu Server
-
- ## Tutorial de Instalação do AzuraCast no Ubuntu 22.04
+## Servidor de Web Radio AzuraCast no Ubuntu 22.04
 
 O AzuraCast é um software de gerenciamento de rádio online que facilita a criação, gerenciamento e transmissão de sua própria estação de rádio. Este tutorial irá guiá-lo através do processo de instalação do AzuraCast no Ubuntu 22.04 usando o Docker.
 
